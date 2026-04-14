@@ -1,0 +1,3 @@
+this is my og file 
+it will copy to sec file
+cp file.txt file1_backup.txt
